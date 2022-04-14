@@ -33,3 +33,27 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 75px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-envelope {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #2c4762;
+  color: black;
+}
+.fa-github {
+  background: #00b489;
+  color: black;
+}
